@@ -5,7 +5,6 @@ import dev.hamidz.ecommerce.kafka.order.OrderConfirmation;
 import dev.hamidz.ecommerce.kafka.payment.PaymentConfirmation;
 import dev.hamidz.ecommerce.notification.Notification;
 import dev.hamidz.ecommerce.notification.NotificationRepository;
-import dev.hamidz.ecommerce.notification.NotificationType;
 import jakarta.mail.MessagingException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
